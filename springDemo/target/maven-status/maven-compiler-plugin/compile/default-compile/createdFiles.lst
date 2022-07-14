@@ -1,1 +1,3 @@
+com\example\springDemo\model\Product.class
 com\example\springDemo\SpringDemoApplication.class
+com\example\springDemo\controller\ProductServiceController.class
