@@ -1,0 +1,3 @@
+com\example\secureWebApplicationdemo\SecureWebApplicationdemoApplication.class
+com\example\secureWebApplicationdemo\MvcConfig.class
+com\example\secureWebApplicationdemo\WebSecurityConfig.class
